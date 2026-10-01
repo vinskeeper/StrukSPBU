@@ -1,0 +1,3 @@
+Pertalite,16130,BENSIN,92
+Pertamax,18500,BENSIN,95
+Pertamina Dex,25420,SOLAR,53
